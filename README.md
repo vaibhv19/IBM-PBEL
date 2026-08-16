@@ -4,13 +4,22 @@ This repository tracks the progress, milestones, certificates, and reference gui
 
 ---
 
-## 🚀 Internship Project: L'Étoile Monospaced
+## 🚀 Internship Projects
 
-The final project developed for this program is hosted in a separate repository:
+The projects developed during this program are hosted in the following separate repositories:
 
-👉 **[vaibhv19/Food-Ordering-System](https://github.com/vaibhv19/Food-Ordering-System)**
-
-**L'Étoile Monospaced** is a React-based restaurant ordering application that simulates a full customer flow (browsing, custom ingredient modal, checkout receipt ticket) utilizing Vite, React Router, TailwindCSS, and TheMealDB API.
+1.  👉 **[L'Étoile Monospaced (Food Ordering System)](https://github.com/vaibhv19/Food-Ordering-System)**
+    *   **Description:** A simulated restaurant ordering web application featuring category tabs, food detail modals, a guest check cart drawer, and a checkout receipt flow.
+    *   **Tech Stack:** React.js (Hooks, Context API), React Router, TailwindCSS, Vite, and TheMealDB API.
+2.  👉 **[E-commerce Website](https://github.com/vaibhv19/E--commerce-Website)**
+    *   **Description:** A full-featured shopping catalog platform supporting user authentication, cart ledger state management, and transaction invoice checks.
+    *   **Tech Stack:** React.js, Node.js, Express.js, MongoDB (Mongoose), TailwindCSS, and DummyJSON API.
+3.  👉 **[Social Media Backend](https://github.com/vaibhv19/Social-Media-Backend)**
+    *   **Description:** A classic social platform backend and frontend layout supporting user profiles, follow mechanics, liked/commented posts feed, and role-based admin moderation.
+    *   **Tech Stack:** Node.js, Express.js, MongoDB (Mongoose), and EJS (Embedded JavaScript) template views.
+4.  👉 **[Weather App](https://github.com/vaibhv19/Weather-App)**
+    *   **Description:** A client-side geolocalized weather telemetry dashboard featuring debounced city search autocomplete and weekly weather condition forecasts.
+    *   **Tech Stack:** Vanilla JavaScript, HTML5, CSS3, TailwindCSS (CDN), and Open-Meteo geocoding/forecast APIs.
 
 ---
 
