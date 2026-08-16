@@ -71,13 +71,29 @@ The program is structured to provide end-to-end expertise in modern web developm
     *   Content planning for traffic growth.
     *   Analytics tracking via Google Analytics and Search Console.
 
-### Project Selections
-Students are required to complete project work under the guidance of a mentor. Project choices include:
-1. **Weather Application** (Frontend)
-2. **Food Ordering Website** (Frontend)
-3. **Product Launch & SEO Optimization**
-4. **Social Media Website** (Backend)
-5. **E-commerce Website** (Frontend and Backend)
+### Selected Program Project: L'Étoile Monospaced 🍔
+
+For the final project submission of this internship, the **Food Ordering Website** option was selected. The project is developed and hosted in a separate repository:
+
+👉 **[vaibhv19/Food-Ordering-System](https://github.com/vaibhv19/Food-Ordering-System)**
+
+#### 📝 Project Overview
+**L'Étoile Monospaced** is a simulated food ordering web application built as part of *Module IV (Advanced Frontend with React.js)* and *Module V (Full-Stack Project Development)* of the IBM curriculum.
+
+*   **Core Concept:** Simulates a restaurant/cafe ordering workflow. Users can browse dishes by category, view ingredients and preparation instructions, manage item quantities in a guest check cart drawer, and process checkout to generate a kitchen order ticket receipt.
+*   **Tech Stack:**
+    *   **Frontend:** React.js (Functional components, React Hooks, Context API for global cart state).
+    *   **Routing:** React Router (client-side routing).
+    *   **Styling:** TailwindCSS (customized with vintage paper colors and monospaced typography).
+    *   **Build Tool:** Vite.
+    *   **API Integration:** Fetches category and dish details dynamically from [TheMealDB](https://www.themealdb.com/).
+    *   **Pricing:** Generated deterministically on the client side using meal IDs (ensuring stable pricing across browsing sessions).
+*   **Key Features:**
+    *   Horizontal scrolling food category selector tabs.
+    *   Responsive menu grid featuring custom styled food cards.
+    *   Dynamic modal popups showing ingredients and preparation steps.
+    *   A guest-check-themed slide-out shopping cart drawer.
+    *   Simulated kitchen ticket checkout receipt screen.
 
 ---
 
