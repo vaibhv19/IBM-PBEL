@@ -8,7 +8,7 @@ This repository tracks the progress, milestones, certificates, and reference gui
 
 The projects developed during this program are hosted in the following separate repositories:
 
-1.  👉 **[L'Étoile Monospaced (Food Ordering System)](https://github.com/vaibhv19/Food-Ordering-System)**
+1.  👉 **[Food Ordering System](https://github.com/vaibhv19/Food-Ordering-System)**
     *   **Description:** A simulated restaurant ordering web application featuring category tabs, food detail modals, a guest check cart drawer, and a checkout receipt flow.
     *   **Tech Stack:** React.js (Hooks, Context API), React Router, TailwindCSS, Vite, and TheMealDB API.
 2.  👉 **[E-commerce Website](https://github.com/vaibhv19/E--commerce-Website)**
