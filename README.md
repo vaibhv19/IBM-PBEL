@@ -25,6 +25,15 @@ The projects developed during this program are hosted in the following separate 
 
 ## 🏆 Achieved Milestones
 
+*   **IBM PBEL Program Completion**
+    *   **Certificate of Completion:** Official Certificate of Completion for the IBM Collaborative Project-Based Experiential Learning (PBEL) program.
+    
+    <p align="center">
+      <a href="IBMCEP%20PBELWMM331IN%20Certificate%20_%20IBMMooc.pdf">
+        <img src="Certificate/IBM_PBEL_Certificate.png" alt="IBM PBEL Certificate of Completion" width="800"/>
+      </a>
+    </p>
+
 *   **Exploratory Data Analysis (Mandatory Course)**
     *   **Certificate of Completion:** Issued on July 25, 2026.
     *   **Assessment Status:** Cleared on August 5, 2026, with a **Gold Category** score (75%).
@@ -36,6 +45,7 @@ The projects developed during this program are hosted in the following separate 
 
 For full details on the program guidelines and curriculum, please refer directly to the following documents:
 
+*   📜 **[IBMCEP PBELWMM331IN Certificate _ IBMMooc.pdf](IBMCEP%20PBELWMM331IN%20Certificate%20_%20IBMMooc.pdf)** — Official Certificate of Completion for the IBM PBEL program.
 *   📄 **[syllabus.pdf](syllabus.pdf)** — Contains the detailed IBM Full Stack Web Development course objectives, learning outcomes, module hours, and reference materials.
 *   📄 **[PBEL_Process.pdf](PBEL_Process.pdf)** — Outlines the step-wise guide for portal registration (FutureSkills Prime), DigiLocker authentication, project submission, and stipend/incentive disbursement.
 *   📁 **[ScreenShots/](ScreenShots/)** — Contains screenshots of portal registration, Government of India (GOI) incentive confirmation, and FSP profile status.
